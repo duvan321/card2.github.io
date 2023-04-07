@@ -16,3 +16,6 @@
 
 - 📫 How to contact me
 *patinodiegoduvan123@gmail.com*
+
+- my site is live at  https://duvan321.github.io/card2.github.io/
+
