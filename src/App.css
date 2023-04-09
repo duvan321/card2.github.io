@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-p{
+p {
   font-size: 20px;
   margin: 0;
 }
@@ -19,15 +19,15 @@ p{
 }
 img {
   width: 100%;
-  border-radius: 5px;
 }
 
 .card {
   width: 400px;
   margin: 1rem;
   height: auto;
-  border-radius: 5px;
+  box-shadow: 3px 3px 3px 4px gray;
   background-color: white;
+  border-radius: 3px;
 }
 .titulo h1 {
   margin: 15px;
