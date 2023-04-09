@@ -1,0 +1,2 @@
+*{box-sizing:border-box}p{font-size:20px;margin:0}.container{margin-left:15rem;margin-right:15rem;padding-bottom:15px}.items{background-color:#d5d5e7;border-radius:5px;display:flex;justify-content:center}img{width:100%}.card{background-color:#fff;border-radius:3px;box-shadow:3px 3px 3px 4px gray;height:auto;margin:1rem;width:400px}.titulo h1,.titulo p{margin:15px}@media screen and (max-width:768px){.container{height:auto;margin:0;max-width:100%}h1{font-size:20px}p{font-size:15px}}
+/*# sourceMappingURL=main.c1e3be82.css.map*/
